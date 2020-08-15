@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "./static/css/main.08b449d4.chunk.css",
+    "main.js": "./static/js/main.dfa863a3.chunk.js",
+    "main.js.map": "./static/js/main.dfa863a3.chunk.js.map",
+    "runtime-main.js": "./static/js/runtime-main.37a202c8.js",
+    "runtime-main.js.map": "./static/js/runtime-main.37a202c8.js.map",
+    "static/js/2.e28a3096.chunk.js": "./static/js/2.e28a3096.chunk.js",
+    "static/js/2.e28a3096.chunk.js.map": "./static/js/2.e28a3096.chunk.js.map",
+    "index.html": "./index.html",
+    "precache-manifest.0dabf5977d44c6a00031d2af4a5154b4.js": "./precache-manifest.0dabf5977d44c6a00031d2af4a5154b4.js",
+    "service-worker.js": "./service-worker.js",
+    "static/css/main.08b449d4.chunk.css.map": "./static/css/main.08b449d4.chunk.css.map",
+    "static/js/2.e28a3096.chunk.js.LICENSE.txt": "./static/js/2.e28a3096.chunk.js.LICENSE.txt",
+    "static/media/cryptomonedas.png": "./static/media/cryptomonedas.96e45d69.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.37a202c8.js",
+    "static/js/2.e28a3096.chunk.js",
+    "static/css/main.08b449d4.chunk.css",
+    "static/js/main.dfa863a3.chunk.js"
+  ]
+}
