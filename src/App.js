@@ -79,7 +79,7 @@ function App() {
         <Imagen src={imagen} alt="imagen cripto" />
       </div>
       <div>
-        <Heading>Cotiza cryptomonedas al instante</Heading>
+        <Heading>Convertidor de cryptomonedas</Heading>
         <Formulario
           guardarMoneda={guardarMoneda}
           guardarCriptoMoneda={guardarCriptoMoneda}

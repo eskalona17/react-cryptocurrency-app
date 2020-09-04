@@ -9,10 +9,9 @@ import axios from "axios";
 
 const Boton = styled.input`
   margin-top: 20px;
-  font-weight: bold;
   font-size: 20px;
   padding: 10px;
-  background-color: #66a2fe;
+  background-color: #41B637;
   border: none;
   width: 100%;
   border-radius: 10px;
@@ -20,7 +19,7 @@ const Boton = styled.input`
   transition: background-color 0.3s ease;
 
   &:hover {
-    background-color: #326ac0;
+    background-color: #34902C;
     cursor: pointer;
   }
 `;
